@@ -5,7 +5,7 @@ http://ma2.la.coocan.jp/AI_Driver/
 
 訓練プログラム
 train.py
-author mitshiro matsuura
+author mitsuhiro matsuura
 version 1.0
 date 2023.01.10
 '''

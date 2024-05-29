@@ -5,7 +5,7 @@ http://ma2.la.coocan.jp/AI_Driver/
 
 走行プログラム
 aidriver.py
-author mitshiro matsuura
+author mitsuhiro matsuura
 version 1.01
 date 2023.01.22
 '''
